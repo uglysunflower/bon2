@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "63f484adacb88b89edc3245b"
+  },
+  "name": "Lionel Messi",
+  "position": "Forward",
+  "team": "Barcelona"
+},{
+  "_id": {
+    "$oid": "63f484deacb88b89edc3245c"
+  },
+  "name": "Cristiano Ronaldo",
+  "position": "Forward",
+  "team": "Manchester United"
+},{
+  "_id": {
+    "$oid": "63f48502acb88b89edc3245d"
+  },
+  "name": "Robert Lewandowski",
+  "position": "Forward",
+  "team": "Bayern Munich"
+}]
